@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sdarshanpgowda2003@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Did you know, NPM does not stand for node package manager.
-- <a href="https://visitcount.itsvg.in">
+<a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=thedarshanpgowda&label=Profile%20Views&color=1&icon=5&pretty=true" />
 </a>
-[![](https://visitcount.itsvg.in/api?id=thedarshanpgowda&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
