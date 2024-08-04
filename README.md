@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently a student at MCE
-- 🌱 I’m currently learning Next.js
 - ✨ Count me in for React Projects.
 - 👯 I’m looking to collaborate on Web Development projects
 - 📫 You can reach me via [sdarshanpgowda2003@gmail.com](mailto:sdarshanpgowda2003@gmail.com)
