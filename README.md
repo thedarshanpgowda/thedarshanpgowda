@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 -->
 
-<!--<img src = "https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg" />
--->
+<img src = "https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg" />
+
 
 - 🔭 I’m currently a student at MCE
 - ✨ Count me in for React Projects.
