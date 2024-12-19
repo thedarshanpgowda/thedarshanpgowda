@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 
 # Hi there! 👋
 
-Welcome to my GitHub profile!
-
 - 🔭 I’m currently a **student at MCE**, focusing on web development and DevOps.
 - ✨ Count me in for **React Projects** – I'm passionate about building scalable, dynamic user interfaces.
 - 👯 I’m looking to **collaborate on Web Development projects**! Feel free to reach out if you need help or want to join forces.
