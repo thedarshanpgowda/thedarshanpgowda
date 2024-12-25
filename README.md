@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to **collaborate on Web Development projects**! Feel free to reach out if you need help or want to join forces.
 - 📫 You can reach me via **[email](mailto:sdarshanpgowda2003@gmail.com)**.
 - 😄 **Pronouns:** he/him
-- ⚡ Fun fact: **Did you know, NPM doesn't actually stand for Node Package Manager?
+- ⚡ Fun fact: **Did you know, NPM doesn't actually stand for Node Package Manager?**
 
 ---
 
